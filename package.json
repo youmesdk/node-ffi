@@ -27,7 +27,7 @@
     "debug": "4",
     "nan": "^2.13.2",
     "ref": "fishg/ref#node-12",
-    "ref-struct": "lxe/ref-struct#node-12"
+    "ref-struct": "fishg/ref-struct#node-12"
   },
   "devDependencies": {
     "fs-extra": "^7.0.1",
